@@ -258,6 +258,123 @@
             "topspeed":"420kmph",
             "mileage":"5kmpl"
          }
+      },
+      {
+         "name":"Bentley Mulsanne",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"Twin Turbocharged V8 Engine",
+            "power":"530bhp@4200rpm",
+            "cylinders":8,
+            "topspeed":"305kmph",
+            "mileage":"10kmpl"
+         }
+      },
+      {
+         "name":"Porsche Panamera",
+         "transmission":"Automatic",
+         "fuel":"Petrol / Diesel",
+         "specs":{
+            "gearbox":8,
+            "engine":"Twin Turbo V8 Engine",
+            "power":"680bhp",
+            "cylinders":8,
+            "topspeed":"310kmph",
+            "mileage":"18kmpl"
+         }
+      },
+      {
+         "name":"Lamborghini Huracan",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"V Type Petrol Engine",
+            "power":"335bhp@5000-6500rpm",
+            "cylinders":6,
+            "topspeed":"250kmph",
+            "mileage":"14kmpl"
+         }
+      },
+      {
+         "name":"Lamborghini Urus",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"V8 Bi-Turbo engine",
+            "power":"641bhp@6000rpm",
+            "cylinders":8,
+            "topspeed":"305kmph",
+            "mileage":"8kmpl"
+         }
+      },
+      {
+         "name":"Audi A3 Cabriolet",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":7,
+            "engine":"TFSI Petrol Engine",
+            "power":"150bhp@5000-6000bhp",
+            "cylinders":7,
+            "topspeed":"222kmph",
+            "mileage":"19kmpl"
+         }
+      },
+      {
+         "name":"Audi RS7",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"V-Type Engine",
+            "power":"552.50bhp@5700-6600rpm",
+            "cylinders":8,
+            "topspeed":"Data Not Available",
+            "mileage":"13kmpl"
+         }
+      },
+      {
+         "name":"Audi Q5",
+         "transmission":"Automatic",
+         "fuel":"Petrol / Diesel",
+         "specs":{
+            "gearbox":7,
+            "engine":"TDI Quattro Engine",
+            "power":"188bhp@3800-4000rpm",
+            "cylinders":4,
+            "topspeed":"218kmph",
+            "mileage":"17kmpl"
+         }
+      },
+      {
+         "name":"Porsche 911",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"Petrol Engine",
+            "power":"450hp@6500",
+            "cylinders":6,
+            "topspeed":"306kmph",
+            "mileage":"9kmpl"
+         }
+      },
+      {
+         "name":"Rolls Royce Phantom",
+         "transmission":"Automatic",
+         "fuel":"Petrol",
+         "specs":{
+            "gearbox":8,
+            "engine":"V12 Petrol Engine",
+            "power":"453bhp@5350rpm",
+            "cylinders":12,
+            "topspeed":"240kmph",
+            "mileage":"9kmpl"
+         }
       }
    ]
 }
