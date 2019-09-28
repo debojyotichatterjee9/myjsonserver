@@ -119,72 +119,9 @@
       "employee_salary":"98778",
       "employee_age":"29",
       "profile_image":""
-   },
-   {
-      "id":"60142",
-      "employee_name":"Shireen Hasan",
-      "employee_email": "shireenhasan@mailinator.com",
-      "employee_salary":"79878",
-      "employee_age":"28",
-      "profile_image":""
-   },
-   {
-      "id":"60145",
-      "employee_name":"Jorge Hernandez",
-      "employee_email": "jorgehernandez@mailinator.com",
-      "employee_salary":"66325",
-      "employee_age":"23",
-      "profile_image":""
-   },
-   {
-      "id":"60147",
-      "employee_name":"Alexander McDonald",
-      "employee_email": "alexandermcdonald@mailinator.com",
-      "employee_salary":"43372",
-      "employee_age":"30",
-      "profile_image":""
    }
 ],
   "cars": [
-{
-  "name": "Porsche Panamera",
-  "transmission": "Automatic",
-  "fuel": "Petrol / Diesel",
-  "specs": {
-    "gearbox": 8,
-    "engine": "Twin Turbo V8 Engine",
-    "power": "680bhp",
-    "cylinders": 8,
-    "topspeed": "310kmph",
-    "mileage": "18kmpl"
-  }
-},
-{
-  "name": "Lamborghini Huracan",
-  "transmission": "Automatic",
-  "fuel": "Petrol",
-  "specs": {
-    "gearbox": 8,
-    "engine": "V Type Petrol Engine",
-    "power": "335bhp@5000-6500rpm",
-    "cylinders": 6,
-    "topspeed": "250kmph",
-    "mileage": "14kmpl"
-  }
-},
-{
-  "name": "Lamborghini Urus",
-  "transmission": "Automatic",
-  "fuel": "Petrol",
-  "specs": {
-    "gearbox": 8,
-    "engine": "V8 Bi-Turbo engine",
-    "power": "641bhp@6000rpm",
-    "cylinders": 8,
-    "topspeed": "305kmph",
-    "mileage": "8kmpl"
-  }
-},
 {
   "name": "Audi A3 Cabriolet",
   "transmission": "Automatic",
