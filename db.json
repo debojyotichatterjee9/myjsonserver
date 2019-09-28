@@ -237,8 +237,8 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-[
-  {
+"cars": [
+{
   "name": "Bugatti Chiron",
   "transmission": "Automatic",
   "fuel": "Petrol",
@@ -250,6 +250,6 @@
     "topspeed": "420kmph",
     "mileage": "5kmpl"
   }
-  }
-  ]
+}
+]
 }
