@@ -299,19 +299,6 @@
          }
       },
       {
-         "name":"Lamborghini Urus",
-         "transmission":"Automatic",
-         "fuel":"Petrol",
-         "specs":{
-            "gearbox":8,
-            "engine":"V8 Bi-Turbo engine",
-            "power":"641bhp@6000rpm",
-            "cylinders":8,
-            "topspeed":"305kmph",
-            "mileage":"8kmpl"
-         }
-      },
-      {
          "name":"Audi A3 Cabriolet",
          "transmission":"Automatic",
          "fuel":"Petrol",
@@ -322,32 +309,6 @@
             "cylinders":7,
             "topspeed":"222kmph",
             "mileage":"19kmpl"
-         }
-      },
-      {
-         "name":"Audi RS7",
-         "transmission":"Automatic",
-         "fuel":"Petrol",
-         "specs":{
-            "gearbox":8,
-            "engine":"V-Type Engine",
-            "power":"552.50bhp@5700-6600rpm",
-            "cylinders":8,
-            "topspeed":"Data Not Available",
-            "mileage":"13kmpl"
-         }
-      },
-      {
-         "name":"Audi Q5",
-         "transmission":"Automatic",
-         "fuel":"Petrol / Diesel",
-         "specs":{
-            "gearbox":7,
-            "engine":"TDI Quattro Engine",
-            "power":"188bhp@3800-4000rpm",
-            "cylinders":4,
-            "topspeed":"218kmph",
-            "mileage":"17kmpl"
          }
       },
       {
