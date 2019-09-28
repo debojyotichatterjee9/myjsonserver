@@ -237,7 +237,18 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "debojyoti"
+[
+  {
+  "name": "Bugatti Chiron",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 7,
+    "engine": "8.0 L (488 cu in) Quad-Turbocharged W16",
+    "power": "1479bhp@6700rpm",
+    "cylinders": 16,
+    "topspeed": "420kmph",
+    "mileage": "5kmpl"
   }
+  ]
 }
