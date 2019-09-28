@@ -236,7 +236,399 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+    ],
+  "cars": [
+    {
+  "name": "BMW Z4 Roadster",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Twin Power Turbo 6-cylinder",
+    "power": "335bhp@5000-6500rpm",
+    "cylinders": 6,
+    "topspeed": "250kmph",
+    "mileage": "14kmpl"
+  }
+},
+{
+  "name": "Mercedes-Benz AMG GT",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 7,
+    "engine": "Petrol",
+    "power": "700Nm@1900-5500rpm",
+    "cylinders": 8,
+    "topspeed": "318kmph",
+    "mileage": "12 Kmpl"
+  }
+},
+{
+  "name": "Volvo S60",
+  "transmission": "Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "In Line Turbo Engine",
+    "power": "190bhp",
+    "cylinders": 4,
+    "topspeed": "230kmph",
+    "mileage": "16kmpl"
+  }
+},
+{
+  "name": "Volvo XC90",
+  "transmission": "Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "4.0-L V8 BITURBO engine",
+    "power": "Twin Turbo & Super Charge Petrol Engine",
+    "cylinders": 4,
+    "topspeed": "230kmph",
+    "mileage": "20kmpl"
+  }
+},
+{
+  "name": "Volvo S90",
+  "transmission": "Automatic",
+  "fuel": "Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "D4 Diesel Engine",
+    "power": "190bhp",
+    "cylinders": 4,
+    "topspeed": "230kmph",
+    "mileage": "18kmpl"
+  }
+},
+{
+  "name": "Porsche Panamera",
+  "transmission": "Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Twin Turbo V8 Engine",
+    "power": "680bhp",
+    "cylinders": 8,
+    "topspeed": "310kmph",
+    "mileage": "18kmpl"
+  }
+},
+{
+  "name": "Lamborghini Huracan",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Twin"power" Turbo 6-cylinder",
+    "power": "335bhp@5000-6500rpm",
+    "cylinders": 6,
+    "topspeed": "250kmph",
+    "mileage": "14kmpl"
+  }
+},
+{
+  "name": "Lamborghini Urus",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V8 Bi-Turbo engine",
+    "power": "641bhp@6000rpm",
+    "cylinders": 8,
+    "topspeed": "305kmph",
+    "mileage": "8kmpl"
+  }
+},
+{
+  "name": "Audi A3 Cabriolet",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 7,
+    "engine": "TFSI Petrol Engine",
+    "power": "150bhp@5000-6000bhp",
+    "cylinders": 7,
+    "topspeed": "222kmph",
+    "mileage": "19kmpl"
+  }
+},
+{
+  "name": "Audi RS7",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V-Type Engine",
+    "power": "552.50bhp@5700-6600rpm",
+    "cylinders": 8,
+    "topspeed": "Data Not Available",
+    "mileage": "13kmpl"
+  }
+},
+{
+  "name": "Audi Q5",
+  "transmission": "Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 7,
+    "engine": "TDI Quattro Engine",
+    "power": "188bhp@3800-4000rpm",
+    "cylinders": 4,
+    "topspeed": "218kmph",
+    "mileage": "17kmpl"
+  }
+},
+{
+  "name": "Skoda Superb",
+  "transmission": "Manual / Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 6,
+    "engine": "Diesel Engine",
+    "power": "174.5bhp@3600-4000",
+    "cylinders": 4,
+    "topspeed": "Data Not Available",
+    "mileage": "18kmpl"
+  }
+},
+{
+  "name": "Mitsubishi Outlander",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 6,
+    "engine": "2.4 litre 16 Valve Petrol Engine",
+    "power": "164.94bhp@6000rpm",
+    "cylinders": 4,
+    "topspeed": "200kmph",
+    "mileage": "10kmpl"
+  }
+},
+{
+  "name": "Mitsubishi Pajero Sport",
+  "transmission": "Manual / Automatic",
+  "fuel": "Diesel",
+  "specs": {
+    "gearbox": 5,
+    "engine": "DI-Diesel Engine",
+    "power": "175.56bhp@4000rpm",
+    "cylinders": 4,
+    "topspeed": "190kmph",
+    "mileage": "13kmpl"
+  }
+},
+{
+  "name": "Nissan Terrano",
+  "transmission": "Manual / Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 6,
+    "engine": "Data Not Available",
+    "power": "108.6bhp@3900rpm",
+    "cylinders": "Data Not Available",
+    "topspeed": "200kmph",
+    "mileage": "19kmpl"
+  }
+},
+{
+  "name": "Nissan GT-R",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 6,
+    "engine": "V6 Twin Turbo Petrol Engine",
+    "power": "562bhp@6800rpm",
+    "cylinders": 6,
+    "topspeed": "280kmph",
+    "mileage": "3kmpl"
+  }
+},
+{
+  "name": "Jaguar F Type",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V-Type Supercharged Engine",
+    "power": "567bhp@6500rpm",
+    "cylinders": 8,
+    "topspeed": "300kmph",
+    "mileage": "15kmpl"
+  }
+},
+{
+  "name": "Jaguar XJ",
+  "transmission": "Automatic",
+  "fuel": "Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Diesel Engine",
+    "power": "301.73bhp@4000rpm",
+    "cylinders": 6,
+    "topspeed": "250kmph",
+    "mileage": "14kmpl"
+  }
+},
+{
+  "name": "Jaguar F-Pace",
+  "transmission": "Automatic",
+  "fuel": "Petrol / Diesel",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Diesel Engine",
+    "power": "177bhp@4000rpm",
+    "cylinders": 4,
+    "topspeed": "208kmph",
+    "mileage": "16kmpl"
+  }
+},
+{
+  "name": "Rolls Royce Phantom",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V12 Petrol Engine",
+    "power": "453bhp@5350rpm",
+    "cylinders": 12,
+    "topspeed": "240kmph",
+    "mileage": "9kmpl"
+  }
+},
+{
+  "name": "Rolls Royce Dawn",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V Type Engine",
+    "power": "563bhp@5250-6000rpm",
+    "cylinders": 12,
+    "topspeed": "250kmph",
+    "mileage": "9kmpl"
+  }
+},
+{
+  "name": "Porsche 911",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Petrol Engine",
+    "power": "450hp@6500",
+    "cylinders": 6,
+    "topspeed": "306kmph",
+    "mileage": "9kmpl"
+  }
+},
+{
+  "name": "Rolls Royce Ghost",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "V12 Petrol Engine",
+    "power": "563bhp@5250rpm",
+    "cylinders": 12,
+    "topspeed": "250kmph",
+    "mileage": "10kmpl"
+  }
+},
+{
+  "name": "Rolls Royce Wraith",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Petrol Engine",
+    "power": "624bhp@5600rpm",
+    "cylinders": 12,
+    "topspeed": "250kmph",
+    "mileage": "10kmpl"
+  }
+},
+{
+  "name": "Rolls Royce Cullinan",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "6.75-litre V12 engine",
+    "power": "335bhp@5000-6500rpm",
+    "cylinders": 12,
+    "topspeed": "250kmph",
+    "mileage": "15kmpl"
+  }
+},
+{
+  "name": "Bugatti Divo",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 7,
+    "engine": "BUGATTI 2-Stage Turbocharging",
+    "power": "1479bhp@6700rpm",
+    "cylinders": 16,
+    "topspeed": "380kmph",
+    "mileage": "Data Not Available"
+  }
+},
+{
+  "name": "Bentley Bentayga",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "W12 Twin Turbo",
+    "power": "600bhp@5250rpm",
+    "cylinders": 12,
+    "topspeed": "301kmph",
+    "mileage": "11kmpl"
+  }
+},
+{
+  "name": "Aston Martin DB11",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "5.2L Bi-Turbo Petrol Engine",
+    "power": "600bhp@6500 rpm",
+    "cylinders": 12,
+    "topspeed": "322kmph",
+    "mileage": "6kmpl"
+  }
+},
+{
+  "name": "Bugatti Chiron",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 7,
+    "engine": "8.0 L (488 cu in) Quad-Turbocharged W16",
+    "power": "1479bhp@6700rpm",
+    "cylinders": 16,
+    "topspeed": "420kmph",
+    "mileage": "5kmpl"
+  }
+},
+{
+  "name": "Bentley Mulsanne",
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "specs": {
+    "gearbox": 8,
+    "engine": "Twin Turbocharged V8 Engine",
+    "power": "530bhp@4200rpm",
+    "cylinders": 8,
+    "topspeed": "305kmph",
+    "mileage": "10kmpl"
+  }
+},
+          ],
   "profile": {
     "name": "debojyoti"
   }
