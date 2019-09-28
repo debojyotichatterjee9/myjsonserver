@@ -159,78 +159,6 @@
       "employee_salary":"38774",
       "employee_age":"23",
       "profile_image":""
-   },
-   {
-      "id":"60153",
-      "employee_name":"Sarah Hinchcliffe",
-      "employee_email": "sarahhinchcliffe@mailinator.com",
-      "employee_salary":"64412",
-      "employee_age":"44",
-      "profile_image":""
-   },
-   {
-      "id":"60155",
-      "employee_name":"Frederick Jeremy",
-      "employee_email": "fredrickjeremy@mailinator.com",
-      "employee_salary":"67889",
-      "employee_age":"34",
-      "profile_image":""
-   },
-   {
-      "id":"60156",
-      "employee_name":"Elizabeth Papillon",
-      "employee_email": "elizpapillion@mailinator.com",
-      "employee_salary":"35656",
-      "employee_age":"55",
-      "profile_image":""
-   },
-   {
-      "id":"60157",
-      "employee_name":"Eliza Peart",
-      "employee_email": "peartelizia@mailinator.com",
-      "employee_salary":"55214",
-      "employee_age":"39",
-      "profile_image":""
-   },
-   {
-      "id":"60158",
-      "employee_name":"John Walls",
-      "employee_email": "johnwalls@mailinator.com",
-      "employee_salary":"78908",
-      "employee_age":"45",
-      "profile_image":""
-   },
-   {
-      "id":"60159",
-      "employee_name":"Mary Watson",
-      "employee_email": "marywatson@mailinator.com",
-      "employee_salary":"17889",
-      "employee_age":"14",
-      "profile_image":""
-   },
-   {
-      "id":"60161",
-      "employee_name":"Richard Webb",
-      "employee_email": "richardweb@mailinator.com",
-      "employee_salary":"25000",
-      "employee_age":"30",
-      "profile_image":""
-   },
-   {
-      "id":"60162",
-      "employee_name":"Ellen Weeks",
-      "employee_email": "ellenweeks@mailinator.com",
-      "employee_salary":"52000",
-      "employee_age":"30",
-      "profile_image":""
-   },
-   {
-      "id":"60163",
-      "employee_name":"Barrington Whiteley",
-      "employee_email": "barringtonwhiteley@mailinator.com",
-      "employee_salary":"96800",
-      "employee_age":"49",
-      "profile_image":""
    }
 ],
   "comments": [
@@ -628,8 +556,5 @@
     "mileage": "10kmpl"
   }
 },
-          ],
-  "profile": {
-    "name": "debojyoti"
-  }
+          ]
 }
