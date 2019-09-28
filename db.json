@@ -143,51 +143,9 @@
       "employee_salary":"43372",
       "employee_age":"30",
       "profile_image":""
-   },
-   {
-      "id":"60149",
-      "employee_name":"Victoria Mustoe",
-      "employee_email": "victoriamustoe@mailinator.com",
-      "employee_salary":"78552",
-      "employee_age":"23",
-      "profile_image":""
-   },
-   {
-      "id":"60151",
-      "employee_name":"Catherine Harbridge",
-      "employee_email": "catherineharbridge@mailinator.com",
-      "employee_salary":"38774",
-      "employee_age":"23",
-      "profile_image":""
    }
 ],
   "cars": [
-    {
-  "name": "BMW Z4 Roadster",
-  "transmission": "Automatic",
-  "fuel": "Petrol",
-  "specs": {
-    "gearbox": 8,
-    "engine": "Twin Power Turbo 6-cylinder",
-    "power": "335bhp@5000-6500rpm",
-    "cylinders": 6,
-    "topspeed": "250kmph",
-    "mileage": "14kmpl"
-  }
-},
-{
-  "name": "Mercedes-Benz AMG GT",
-  "transmission": "Automatic",
-  "fuel": "Petrol",
-  "specs": {
-    "gearbox": 7,
-    "engine": "Petrol",
-    "power": "700Nm@1900-5500rpm",
-    "cylinders": 8,
-    "topspeed": "318kmph",
-    "mileage": "12 Kmpl"
-  }
-}
 {
   "name": "Porsche Panamera",
   "transmission": "Automatic",
