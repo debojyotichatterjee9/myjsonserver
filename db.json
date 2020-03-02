@@ -151,99 +151,89 @@
          "employee_salary":"78552",
          "employee_age":"23",
          "profile_image":""
-      },
-      {
-         "id":"60151",
-         "employee_name":"Catherine Harbridge",
-         "employee_email":"catherineharbridge@mailinator.com",
-         "employee_salary":"38774",
-         "employee_age":"23",
-         "profile_image":""
-      },
-      {
-         "id":"60153",
-         "employee_name":"Sarah Hinchcliffe",
-         "employee_email":"sarahhinchcliffe@mailinator.com",
-         "employee_salary":"64412",
-         "employee_age":"44",
-         "profile_image":""
-      },
-      {
-         "id":"60155",
-         "employee_name":"Frederick Jeremy",
-         "employee_email":"fredrickjeremy@mailinator.com",
-         "employee_salary":"67889",
-         "employee_age":"34",
-         "profile_image":""
-      },
-      {
-         "id":"60156",
-         "employee_name":"Elizabeth Papillon",
-         "employee_email":"elizpapillion@mailinator.com",
-         "employee_salary":"35656",
-         "employee_age":"55",
-         "profile_image":""
-      },
-      {
-         "id":"60157",
-         "employee_name":"Eliza Peart",
-         "employee_email":"peartelizia@mailinator.com",
-         "employee_salary":"55214",
-         "employee_age":"39",
-         "profile_image":""
-      },
-      {
-         "id":"60158",
-         "employee_name":"John Walls",
-         "employee_email":"johnwalls@mailinator.com",
-         "employee_salary":"78908",
-         "employee_age":"45",
-         "profile_image":""
-      },
-      {
-         "id":"60159",
-         "employee_name":"Mary Watson",
-         "employee_email":"marywatson@mailinator.com",
-         "employee_salary":"17889",
-         "employee_age":"14",
-         "profile_image":""
-      },
-      {
-         "id":"60161",
-         "employee_name":"Richard Webb",
-         "employee_email":"richardweb@mailinator.com",
-         "employee_salary":"25000",
-         "employee_age":"30",
-         "profile_image":""
-      },
-      {
-         "id":"60162",
-         "employee_name":"Ellen Weeks",
-         "employee_email":"ellenweeks@mailinator.com",
-         "employee_salary":"52000",
-         "employee_age":"30",
-         "profile_image":""
-      },
-      {
-         "id":"60163",
-         "employee_name":"Barrington Whiteley",
-         "employee_email":"barringtonwhiteley@mailinator.com",
-         "employee_salary":"96800",
-         "employee_age":"49",
-         "profile_image":""
       }
    ],
-   "comments":[
-      {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
-      }
+   "users":[
+     {
+        "id":"90151",
+        "user_name":"Catherine Harbridge",
+        "user_email":"catherineharbridge@mailinator.com",
+        "user_phone":"9844736672",
+        "user_age":"23",
+        "profile_image":""
+     },
+     {
+        "id":"90153",
+        "user_name":"Sarah Hinchcliffe",
+        "user_email":"sarahhinchcliffe@mailinator.com",
+        "user_phone":"9223774651",
+        "user_age":"44",
+        "profile_image":""
+     },
+     {
+        "id":"90155",
+        "user_name":"Frederick Jeremy",
+        "user_email":"fredrickjeremy@mailinator.com",
+        "user_phone":"9366451887",
+        "user_age":"34",
+        "profile_image":""
+     },
+     {
+        "id":"90156",
+        "user_name":"Elizabeth Papillon",
+        "user_email":"elizpapillion@mailinator.com",
+        "user_phone":"9783335656",
+        "user_age":"55",
+        "profile_image":""
+     },
+     {
+        "id":"90157",
+        "user_name":"Eliza Peart",
+        "user_email":"peartelizia@mailinator.com",
+        "user_phone":"9866555214",
+        "user_age":"39",
+        "profile_image":""
+     },
+     {
+        "id":"90158",
+        "user_name":"John Walls",
+        "user_email":"johnwalls@mailinator.com",
+        "user_phone":"9033278908",
+        "user_age":"45",
+        "profile_image":""
+     },
+     {
+        "id":"90159",
+        "user_name":"Mary Watson",
+        "user_email":"marywatson@mailinator.com",
+        "user_phone":"9112317889",
+        "user_age":"14",
+        "profile_image":""
+     },
+     {
+        "id":"90161",
+        "user_name":"Richard Webb",
+        "user_email":"richardweb@mailinator.com",
+        "user_phone":"9665425000",
+        "user_age":"30",
+        "profile_image":""
+     },
+     {
+        "id":"90162",
+        "user_name":"Ellen Weeks",
+        "user_email":"ellenweeks@mailinator.com",
+        "user_phone":"7223652000",
+        "user_age":"30",
+        "profile_image":""
+     },
+     {
+        "id":"90163",
+        "user_name":"Barrington Whiteley",
+        "user_email":"barringtonwhiteley@mailinator.com",
+        "user_salary":"9554396800",
+        "user_age":"49",
+        "profile_image":""
+     }
    ],
    "cars":[
       {
